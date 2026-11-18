@@ -1,0 +1,2 @@
+﻿rel,SparePartInstruments,2,IX_SparePartInstruments_InstrumentId_SparePartId,NONCLUSTERED,0,0,0,0
+rel,SparePartInstrumentTypes,2,IX_SparePartInstrumentTypes_InstrumentTypeId_SparePartId,NONCLUSTERED,0,0,0,0

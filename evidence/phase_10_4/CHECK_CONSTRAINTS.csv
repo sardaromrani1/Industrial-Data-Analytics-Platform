@@ -1,0 +1,3 @@
+﻿event,InstrumentBypassHistory,CK_InstrumentBypassHistory_DateRange,([BypassEndDateTime] IS NULL OR [BypassEndDateTime]>=[BypassStartDateTime]),0,0,0
+event,InstrumentLifecycle,CK_InstrumentLifecycle_DateRange,([EffectiveTo] IS NULL OR [EffectiveTo]>=[EffectiveFrom]),0,0,0
+event,InstrumentOperationalStatusHistory,CK_InstrumentOperationalStatusHistory_DateRange,([EffectiveTo] IS NULL OR [EffectiveTo]>=[EffectiveFrom]),0,0,0
